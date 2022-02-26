@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An advertisement of Mr. Boyle, about the loss of many of his writings address'd to Mr. J.W. to be communicated to those friends of his, that are virtuosi, which may serve as a kind of preface to most of his mutilated and unfinish'd writings.</title>
+            <author>Boyle, Robert, 1627-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77176</idno>
+            <idno type="STC">Wing B3923</idno>
+            <idno type="STC">ESTC R226301</idno>
+            <idno type="EEBO-CITATION">99897945</idno>
+            <idno type="PROQUEST">99897945</idno>
+            <idno type="VID">171024</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77176)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171024)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2550:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An advertisement of Mr. Boyle, about the loss of many of his writings address'd to Mr. J.W. to be communicated to those friends of his, that are virtuosi, which may serve as a kind of preface to most of his mutilated and unfinish'd writings.</title>
+                  <author>Boyle, Robert, 1627-1691.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Boyle, Robert, 1627-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171024:1" rendition="simple:additions"/>
+            <head>An Advertiſement of Mr. <hi>Boyle,</hi> about the Loſs of many of his Writings: Addreſs'd to Mr. <hi>J. W.</hi> to be communica<g ref="char:EOLhyphen"/>ted to thoſe Friends of His, that are <hi>Virtuoſi,</hi> which may ſerve as a kind of Preface to most of his Mutilated and <g ref="char:V">Ʋ</g>nfiniſh'd Writings.</head>
+            <p>AS for the Report that doubt<g ref="char:EOLhyphen"/>leſs has reach'd your Ears, of the Loſs of ſeveral of my Ma<g ref="char:EOLhyphen"/>nuſcripts, and the Defacing of divers Others, 'tis but too true; and I am very ſenſible of it. But yet 'tis not barely upon my own Account that I am ſo, but very much upon that of my inquiſitive Friends, and Mr. <hi>J. W.</hi> in particular. For I cannot but be trou<g ref="char:EOLhyphen"/>bled <hi>that</hi> I find my ſelf diſabled to an<g ref="char:EOLhyphen"/>ſwer the Expectations they had, that I ſhould gratifie their Curioſity, by enter<g ref="char:EOLhyphen"/>taining them with ſeveral Tracts upon Philoſophical Subjects: And <hi>that</hi> ſome unwelcom Accidents that have of late befallen me, oblige me to diſſwade them from expecting henceforward that I ſhould preſent them with almoſt any Treatiſe, Finiſh'd and Entire. For ha<g ref="char:EOLhyphen"/>ving been for many years afflicted with a Weakneſs of Sight, that neceſſitated me, inſtead of Writing my Self, to Dictate to Others; and having been neceſſitated to make ſeveral Removes, ſome of them with too much haſte to permit me to take an exact care of my Papers, or keep all of them together, and take them along with my ſelf from place to place: When not long ſince I had occaſion to review and range them, I found to my Surprize, as well as Trouble, that I want<g ref="char:EOLhyphen"/>ed four or five Centuries of Experiments of my Own, and other Matters of Fact, which from time to time I had commit<g ref="char:EOLhyphen"/>ted to Paper, as they were made and obſerv'd, and had been by way partly of a <hi>Diary,</hi> and partly of <hi>Adverſaria,</hi> regi<g ref="char:EOLhyphen"/>ſter'd and ſet down one Century after another, that I might have them in a rea<g ref="char:EOLhyphen"/>dineſs to be made uſe of in my deſign'd Treatiſes. And together with theſe Mat<g ref="char:EOLhyphen"/>ters of Fact, I found miſſing ſeven or eight Centuries of Notions, Remarks, Expli<g ref="char:EOLhyphen"/>cations and Illuſtrations of divers things in Philoſophy, which I had committed to Writing as they chanc'd to occur to my Thoughts, and which might have place among the ſame Papers with the above-mention'd Experiments. How all theſe ſhould come to be loſt, whilſt ſome o<g ref="char:EOLhyphen"/>ther Centuries of Notes and ſhort <hi>Me<g ref="char:EOLhyphen"/>moirs,</hi> ſome of them Speculative and others Experimental, eſcap'd, I can as little declare, as recover them. But to add to the Misfortune (for ſuch it is to Me, though perhaps not to the World,) One whom I had order'd to do ſome<g ref="char:EOLhyphen"/>thing with a Bottle of Oyl of Vitriol, un<g ref="char:EOLhyphen"/>luckily broke the Glaſs juſt over a flat Cheſt of Drawers, which I had pur<g ref="char:EOLhyphen"/>poſely caus'd to be made for no other uſe, than to keep in it my own Manuſcript Papers, whereof it had then good ſtore. And though I happen'd to be at that time in the Room, and made haſt to un<g ref="char:EOLhyphen"/>lock the diſtinct Drawers, and take them out; yet the highly corroſive Liquor had made ſuch haſte, and ſuch havock, that ſeveral Manuſcripts, and among them ſome that I moſt valu'd, were quite ſpoil'd, inſomuch that there re<g ref="char:EOLhyphen"/>main'd not words enough undefac'd to declare what Subjects they concern'd; and that the other Manuſcripts that miſ<g ref="char:EOLhyphen"/>chievous Liquor had reach'd to, had ſome of them their Leaves half conſum'd, and others a greater or leſſer part of them; and all that the <hi>Menſtruum</hi> touch'd, it made ſo rotten, that notwithſtanding all our diligence, what was once wet<g ref="char:EOLhyphen"/>ted, could never be retriev'd.</p>
+            <p>'T was. Natural enough that this con<g ref="char:EOLhyphen"/>courſe of Miſchances ſhould ſuggeſt to me, that I was to take new Meaſures in reference to my deſign'd, but yet un<g ref="char:EOLhyphen"/>publiſh'd Writings. For firſt, it ſeem'd reaſonable, that either I ſhould wholly ſuppreſs ſome Diſcourſes, wherein I had made a conſiderable progreſs, but had
+<pb n="2" facs="tcp:171024:2"/>not finiſh'd them, or elſe ſhould at leaſt acknowledge and give notice, they are imcompleat, and blemiſh'd with divers Chaſms, ſince a great many Particulars are loſt, that ſhould have done more than fill up thoſe Vacancies: Which Defects I cannot now ſupply, many of the Ex<g ref="char:EOLhyphen"/>periments having been made, when I had by me ſome ſuch Drugs and other Materials, and ſuch Exact Inſtruments and Skilful Workmen as I am not now furniſh'd with, nor am able to retrieve. Beſides that, I was then alſo ſome times befriended by Opportunities and fa<g ref="char:EOLhyphen"/>vourable Circumſtances, that I cannot hope for again.</p>
+            <p>To this <hi>firſt</hi> Reflection 'twas Natural to add <hi>another;</hi> which was; That ſince I could neither diſcover nor imagin how moſt of the Writings lately mention'd (with ſome others about differing Sub<g ref="char:EOLhyphen"/>jects) came to be loſt; the ſureſt courſe (if not the only ſure one) that I could take to prevent the like Accidents for the ſuture, would be to publiſh from time to time; as faſt as conveniently I could, thoſe Remains and Fragments, as well as leſs mutilated Papers, that yet continued in my hands; premiſing to each diſtinct Bundle of them, an Ad<g ref="char:EOLhyphen"/>monition to thoſe Readers that care for no Books that are not Methodical and Compleat, that they were not only free, but deſir'd to paſs theſe by, as Pieces both Confus'd and Unfiniſh'd.</p>
+            <p>I might add, that perhaps it may be more Prejudicial to the Author than to the Reader, that theſe Papers come forth with ſuch diſadvantageous Circum<g ref="char:EOLhyphen"/>ſtances: Since for the moſt part, the Me<g ref="char:EOLhyphen"/>thod of Writings that treat about Expe<g ref="char:EOLhyphen"/>rimental Philoſophy, is not much min<g ref="char:EOLhyphen"/>ded and remembred by the Reader, at leaſt after the firſt peruſal; the No<g ref="char:EOLhyphen"/>tions and Experiments themſelves, ab<g ref="char:EOLhyphen"/>ſtracting from the Order they were de<g ref="char:EOLhyphen"/>liver'd in, being the things that Philo<g ref="char:EOLhyphen"/>ſophers uſe to take Notice of, and per<g ref="char:EOLhyphen"/>manently retain in their Memories. The Introductory Diſcourſes and Prefaces to be met with among ſome of the very In<g ref="char:EOLhyphen"/>compleat Papers that accompany this Letter, may perhaps not be Unwelcom nor altogether Uſeleſs to ſome Ingenious Men; who will not be diſpleas'd to find themſelves Excited, and perchance ſome<g ref="char:EOLhyphen"/>what Aſſiſted, to take particular notice of ſome Subjects, that ſeem worthy of being more thorowly conſider'd and cultivated than yet they have been. And ſome perchance may think the Deſigns I had upon ſuch Subjects, not unfit to be pur<g ref="char:EOLhyphen"/>ſu'd by them in their own Way and Stile. And as for theſe heaps of Fragments, that ſeem to be more of a Chaotic Na<g ref="char:EOLhyphen"/>ture (if I may ſo ſpeak;) Since the Par<g ref="char:EOLhyphen"/>ticulars they mainly conſiſt of, are Mat<g ref="char:EOLhyphen"/>ters of Fact; their being huddled toge<g ref="char:EOLhyphen"/>ther without Method (though not al<g ref="char:EOLhyphen"/>ways without Order) may not hinder them from being fit, if well diſpos'd of, to have places ſome where or other in the Hiſtory of Nature; and to become not Unſerviceable Materials in the Struc<g ref="char:EOLhyphen"/>ture that is aim'd at in this Age, of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and well Grounded Philoſophy.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
